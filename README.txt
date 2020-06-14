@@ -12,5 +12,3 @@ index.html - The Index document for the website.
 ##CloudFront Endpoint URL: d13v2gr0h4rses.cloudfront.net
 
 ##Static Website URL:d13v2gr0h4rses.cloudfront.net/index.html
-
-
